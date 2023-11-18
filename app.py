@@ -2,7 +2,7 @@ import timeit
 from flask import Flask, request, jsonify, render_template
 from exponential_search import exponential_search, exponential_search_wrapper
 from binary_search import binary_search, binary_search_wrapper
-from interpolation_search import interpolation_search, interpolation_search_wrapper
+from interpolation_test import interpolation_search, interpolation_search_wrapper
 from jump_search import jump_search, jump_search_wrapper
 from linear_search import linear_search, linear_search_wrapper
 from ternary_search import ternary_search, ternary_search_wrapper
