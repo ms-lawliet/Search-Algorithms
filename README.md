@@ -1,8 +1,6 @@
-# Data Structure and Algorithm Lab 5 Group exercises
+# Lab Activity: Search Algorithms
 
 Subject: Data Structures and Algorithms
-
-Lab Activity: Search Algorithms
 
 Objective: To implement and compare the performance of various search algorithms on different data sets.
 
