@@ -60,3 +60,12 @@ c. How did the size of the data set affect the performance of the search algorit
 
 d. Write a brief conclusion summarizing your findings
 
+### Deliverables:
+
+Python code for each search algorithm (already provided) and the python code on how to generated dataset and
+executing the data set.
+
+Table and graph comparing the performance of the search algorithms on the different data sets (see sample)
+Analysis and conclusion of the exercise
+
+
